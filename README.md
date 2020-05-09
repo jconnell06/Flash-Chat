@@ -20,3 +20,5 @@ Within the constants file, I additionally created a function to push an alert me
 * How to create direct Segues for navigation.
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
+## Final Result
+![](FlashChatDemo.gif)
